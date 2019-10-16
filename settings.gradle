@@ -1,0 +1,2 @@
+include ':app', ':mylibrary', ':mylibrary2', ':mylibrary3', ':mylibrary4'
+rootProject.name='My Application'
